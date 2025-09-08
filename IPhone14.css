@@ -1,0 +1,51 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+section{
+    display: flex;
+}
+.detalhes{
+    margin-left: 50px;
+    text-align: left;
+    background-color:white
+}
+.detalhes h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.detalhes h2{
+    font-size: 25px;
+    margin-bottom: 40px;
+    color: coral;
+}
+.detalhes h3{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.detalhes p{
+    font-size: 20px;
+    margin-bottom: 50px;
+    max-width: 870px;
+}
+img{
+    width: 880px;
+    height: 750px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+button{
+    color: rgb(43, 42, 40);
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+input,button{
+    width: 600px;
+    height: 40px;
+}
